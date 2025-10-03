@@ -73,12 +73,6 @@ This will generate a `report.html` file in the project directory.
 
 ---
 
-## Example Pytest-HTML Report Screenshot
-
-![Pytest HTML Report Example](https://raw.githubusercontent.com/pytest-dev/pytest-html/main/docs/_static/report.png)
-
----
-
 ## License
 
 This project is licensed under the MIT License.
